@@ -1,7 +1,7 @@
 % READ ME
 %
 % To run this file, the user needs to import a few files from my github
-% repository available in the PCA_MATLAB folder:
+% repository available in the PCA folder:
 %
 %       1)      meancent.m  -  a MATLAB function that returns the
 %       mean-centered data matrix B of a non-mean-centered data matrix A:
