@@ -4,4 +4,4 @@ This project focuses on principal component analysis and includes a presentation
 
 All relevant code and data matrices are located in the PCA folder. Setting your MATLAB directory to this folder will allow you to run the code and interact with the figures as needed.
 
-The comprehensive paper, PCA_with_SVD_Paper.pdf, provides a detailed overview of the project.
+The comprehensive paper, PCA_with_SVD_Paper.pdf, provides a detailed written and visual overview of the project while the presentation pdf and slidedeck provide a visual-intensive overview of the project.
